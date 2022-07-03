@@ -1,4 +1,4 @@
-# Complete Online Job Search System v1.0 by campcodes.com has Cross-site Scripting (XSS)
+# Complete Online Job Search System v1.0 by campcodes.com has Cross-Site Scripting (XSS)
 
 **Vul_Author**: **Liyu Chen**
 
