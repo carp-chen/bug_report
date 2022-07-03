@@ -35,4 +35,4 @@ Upgrade-Insecure-Requests: 1
 USERID=2018001&deptid=&U_NAME=%3Cscript%3Ealert%281%29%3C%2Fscript%3E&deptid=&U_USERNAME=Narciso&deptid=&U_PASS=123&U_ROLE=Administrator&save=
 ```
 
-![](E:\HK\study\CVE\0702\xss.gif)
+![](https://github.com/chen-liyu/bug_report/blob/main/vendors/campcodes.com/online-job-search-system/xss.gif?raw=true)
